@@ -11,7 +11,7 @@
 .inputs{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: left;
     background-color: cadetblue;
 }
 .container{
